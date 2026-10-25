@@ -1,0 +1,11 @@
+/* Grunnstillingar */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10rem;
+  font-size: x-large;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
