@@ -11,3 +11,7 @@ body {
     background-color: #7e82aa;
     color: #feffce;
 }
+
+h1 {
+    user-select: none;
+}
